@@ -1,0 +1,50 @@
+
+*{
+
+	background: 
+}
+.block1{
+	text-align: center;
+
+}
+
+.is-danger{
+	text-align: center;
+
+}
+.q{
+	background: #A9F5D0;
+}
+
+
+.icon-text-icon {
+        width: 100%;
+        padding: 0 0 2% 0;
+        background: black;
+    }
+     .icon-text-text {
+        width: 100%;
+        padding: 2% 0 0 0;
+        font-size: 80%;
+         background: black;
+    }
+  .social {
+    list-style-type: none;
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 420%;
+    margin: 1%;
+    padding: 5%;
+    color: #c3d7df;
+}
+
+.social i:hover {
+    color: #f5f5f5;
+}
+
